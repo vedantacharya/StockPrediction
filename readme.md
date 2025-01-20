@@ -8,6 +8,10 @@ This is a **Stock Price and Market Analysis Tool**. It provides real-time stock 
 
 ---
 
+  ![Stock Analysis Dashboard](./assets/stockToolBackground.png)
+
+---
+
 ## Features
 
 - **Real-time Stock Analysis**: Fetch and display detailed stock information.
